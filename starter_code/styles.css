@@ -1,0 +1,22 @@
+.background{
+    color: white;
+    font-size: 50px;
+}
+.background2{
+    color: rgb(99, 95, 95);
+    font-size: 30px;
+}
+.backg{
+    background-color: rgb(46, 43, 43);
+}
+
+.tachado{
+    text-decoration: line-through;
+}
+.cardbold{
+    font-weight: bold;
+}
+
+.letra{
+    font-family: 'Noto Sans JP', sans-serif;
+}
