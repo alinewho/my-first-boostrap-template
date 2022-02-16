@@ -12,6 +12,7 @@
 
 .tachado{
     text-decoration: line-through;
+    color: grey;
 }
 .cardbold{
     font-weight: bold;
